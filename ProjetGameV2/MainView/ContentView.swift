@@ -36,6 +36,7 @@ struct ContentView: View {
                         //                                    Paramete ship, permet de faire disparaitre le champ de texte
                         
                         
+                        
                         TextFieldView(model: model)
                         
                         Button(action: {

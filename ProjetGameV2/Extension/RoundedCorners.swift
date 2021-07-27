@@ -4,7 +4,7 @@
 //
 //  Created by Quentin Puechguiral on 09/05/2021.
 //
-
+//Permet de faire un bloc avec des angles arrondie uniquement en haut et en bas.
 import Foundation
 import SwiftUI
 
