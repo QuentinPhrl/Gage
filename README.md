@@ -1,7 +1,7 @@
 # Gage
 
 Cette application est un MVP qui a pour but de tester la portabilité d'un jeu en une application et de tester le développement IOS.
-Malheureusement, Apple refuse l'application, article 4.2 tu coco...
+Malheureusement, Apple refuse l'application, article 4.2...
 
 Description de l'application 📱 : 
 
